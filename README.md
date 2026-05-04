@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe - React
 
-Bu proje, React (JSX) kullanılarak geliştirilmiş klasik bir Tic Tac Toe oyunudur.
+Bu proje, React (JSX) kullanılarak geliştirilmiş klasik bir Tic Tac Toe oyunudur. İnternet Programcılığı dersi laboratuvar ödevi için yapılmıştır.
 
 ## Neler Yapabiliriz
 
